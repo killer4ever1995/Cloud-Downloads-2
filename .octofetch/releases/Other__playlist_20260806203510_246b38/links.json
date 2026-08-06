@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3165",
+  "folder": "Other__playlist_20260806203510_246b38",
+  "base_name": "Other__playlist_20260806203510_246b38.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/killer4ever1995/Cloud-Downloads-2/releases/tag/co-releases-v1-3165",
+  "files": [
+    {
+      "name": "Other__playlist_20260806203510_246b38.bin",
+      "url": "https://github.com/killer4ever1995/Cloud-Downloads-2/releases/download/co-releases-v1-3165/Other__playlist_20260806203510_246b38.bin",
+      "api_url": "https://api.github.com/repos/killer4ever1995/Cloud-Downloads-2/releases/assets/504221536",
+      "id": 504221536,
+      "size": 2119335,
+      "download_count": 0
+    }
+  ]
+}
